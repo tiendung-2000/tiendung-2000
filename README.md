@@ -12,9 +12,6 @@ Trying to be a game developer?
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tiendung-2000&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiendung-2000&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tiendung-2000&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
