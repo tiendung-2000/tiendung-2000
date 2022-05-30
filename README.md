@@ -11,9 +11,3 @@ Trying to be a game developer?
 ![](https://github-readme-stats.vercel.app/api?username=tiendung-2000&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tiendung-2000&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiendung-2000&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=tiendung-2000&icon=5&color=9)](https://visitcount.itsvg.in)
